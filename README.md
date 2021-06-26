@@ -1,5 +1,6 @@
 # Numpy-100
 100 exercises on the Numpy Library divided into four parts
+>Practice questions from: https://github.com/rougier/numpy-100
 
 ## Part 1
 * Accessing Documentation
@@ -30,4 +31,4 @@
 ## Part 4
 
 
->Practice questions from: https://github.com/rougier/numpy-100
+
