@@ -1,6 +1,6 @@
 # Numpy-100
 100 exercises on the Numpy Library divided into four parts. 
->Helpful when the code and output is used as a reference while working on Numpy
+>Code and output can be used as a guide while working on Numpy
 >
 >Practice questions/Answers from: https://github.com/rougier/numpy-100
 
