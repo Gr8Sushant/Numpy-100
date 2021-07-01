@@ -30,6 +30,19 @@
 * Structured Array with x,y coordinates 
 
 ## Part 3
+* Converting Float array to integer
+* Enumerating
+* 2D gaussian like array
+* Subtracting mean of each matrix row
+* Sorting using the nth column
+* Find if array has null columns 
+* Finding nearest value from a given value
+* Add using iterator
+* Accumulate vector elements to array based on index list
+* get sum of last two axis at once of a 4D array
+* Diagonal of Dot product
+* Swapping two rows of an array
+
 ## Part 4
 
 
