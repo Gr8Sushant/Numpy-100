@@ -43,7 +43,7 @@
 * Diagonal of Dot product
 * Swapping two rows of an array
 
-## Part 4
+
 
 
 
